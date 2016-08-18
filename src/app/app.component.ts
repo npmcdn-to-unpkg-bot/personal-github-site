@@ -3,8 +3,8 @@ import { Messages, Message } from "primeng/primeng";
 
 @Component({
   selector: "dt-app",
-  templateUrl: "src/app/app.component.html",
-  styleUrls: ["src/app/app.component.min.css"],
+  templateUrl: "app/app.component.html",
+  styleUrls: ["app/app.component.min.css"],
   directives: [Messages]
 })
 export class AppComponent implements OnInit {

@@ -23,8 +23,8 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: "dt-app",
-            templateUrl: "src/app/app.component.html",
-            styleUrls: ["src/app/app.component.min.css"],
+            templateUrl: "app/app.component.html",
+            styleUrls: ["app/app.component.min.css"],
             directives: [primeng_1.Messages]
         }), 
         __metadata('design:paramtypes', [])
