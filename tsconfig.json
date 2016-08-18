@@ -1,0 +1,23 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "inlineSources": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "noImplicitAny": false,
+    "removeComments": false,
+    "rootDir": ".",
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "files": [
+    "./typings/index.d.ts",
+    "./src/system-config.ts",
+    "./src/main.ts",
+    "./test/test.ts"
+  ]
+}
