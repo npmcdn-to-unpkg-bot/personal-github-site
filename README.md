@@ -1,6 +1,6 @@
-# dennistanghe.github.io
+# Source of dennistanghe.github.io
 
-This is the repo of my site on GitHub: https://dennistanghe.github.io.
+This repo contains the source code of my site on GitHub: https://dennistanghe.github.io.
 
 Coded with:
 - [TypeScript](https://www.typescriptlang.org)
