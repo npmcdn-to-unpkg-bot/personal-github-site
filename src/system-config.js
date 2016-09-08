@@ -10,10 +10,10 @@
             this.configureMap = function () {
                 _this.map = {
                     "app": ".",
-                    "@angular": "https://npmcdn.com/@angular",
-                    "rxjs": "https://npmcdn.com/rxjs",
-                    "symbol-observable": "https://npmcdn.com/symbol-observable",
-                    "primeng": "https://npmcdn.com/primeng"
+                    "@angular": "https://unpkg.com/@angular",
+                    "rxjs": "https://unpkg.com/rxjs",
+                    "symbol-observable": "https://unpkg.com/symbol-observable",
+                    "primeng": "https://unpkg.com/primeng"
                 };
             };
             this.configurePackages = function () {
